@@ -1,0 +1,1 @@
+Drop TABLE teams if Exists;
